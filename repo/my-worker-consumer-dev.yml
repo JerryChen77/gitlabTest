@@ -20,3 +20,4 @@ hystrix:
         isolation:
           thread:
             timeoutInMilliseconds: 3000
+#dev第一次模块发开
